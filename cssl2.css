@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+}
+
+header{
+    height: 120px;
+    border: 1px solid black;
+}
+
+.section1{
+    height: 120px;
+    border: 1px solid black;
+}
+
+.section2{
+    float: left;
+    height: 190px;
+    width: 38%;
+    border: 1px solid black;
+}
+
+.section3{
+    float: left;
+    height: 190px;
+    width: 62%;
+    border: 1px solid black;
+}
+
+footer{
+    clear: both;
+    height: 120px;
+    border: 1px solid black;
+}

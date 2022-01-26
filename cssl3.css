@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+}
+
+header{
+    height: 100px;
+    border: 1px solid black;
+}
+
+.s1000{
+    float: left;
+    height: 500px;
+    width: 20%;
+    border: 1px solid black;    
+}
+
+.s0100{
+    float: left;
+    height: 500px;
+    width: 40%;
+    border: 1px solid black;    
+}
+
+.s0010{
+    float: left;
+    height: 500px;
+    width: 20%;
+    border: 1px solid black;    
+}
+
+.s0001{
+    float: left;
+    height: 500px;
+    width: 20%;
+    border: 1px solid black;    
+}
+
+footer{
+    clear: both;
+    height: 100px;
+    border: 1px solid black;
+}
